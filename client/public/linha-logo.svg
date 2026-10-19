@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Minha História</title>
+  <desc id="desc">Três pontos ligados por uma linha ascendente</desc>
+  <rect width="160" height="160" rx="42" fill="#fff4ea"/>
+  <path d="M38 112c22-4 34-21 46-44 10-19 19-27 38-28" fill="none" stroke="#f26a3d" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="39" cy="112" r="15" fill="#d84232"/>
+  <circle cx="84" cy="68" r="15" fill="#f26a3d"/>
+  <circle cx="122" cy="40" r="15" fill="#ffb347"/>
+</svg>
